@@ -1,0 +1,7 @@
+.error {
+    border: 1px solid red;
+    border-radius: 2px;
+}
+.invalid_data {
+    color: red;
+}
